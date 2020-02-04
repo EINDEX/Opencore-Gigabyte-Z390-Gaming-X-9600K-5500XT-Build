@@ -48,9 +48,9 @@ macOS Catalina 10.15.3
 
 ## Images
 
-![](img/Xnip2020-02-04_16-16-37.jpg)
+![](/img/Xnip2020-02-04_16-16-37.jpg)
 
-![](img/Xnip2020-02-04_16-15-20.jpg)
+![](/img/Xnip2020-02-04_16-15-20.jpg)
 
 ## Thanks
 
