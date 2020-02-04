@@ -45,6 +45,7 @@ macOS Catalina 10.15.3
 ## Current Issues
 
 - CFG Lock not unlock
+- No Bluetooth & Wi-Fi device
 
 ## Images
 
