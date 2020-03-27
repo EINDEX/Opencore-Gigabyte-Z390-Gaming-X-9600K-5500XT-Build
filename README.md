@@ -1,6 +1,6 @@
 # Opencore Gigabyte z390 Gaming X i5 9600kf Rx 5500 xt Build
 
-My EFI With OpenCore 5.5.0 Catalina 10.15.3
+My EFI With OpenCore 5.6.0 Catalina 10.15.4
 
 **In maintenance**
 
@@ -12,7 +12,7 @@ My EFI With OpenCore 5.5.0 Catalina 10.15.3
 
 ### OpenCore
 
-- OpenCore 5.5.0
+- OpenCore 5.6.0
 
 ### Hardware
 
@@ -26,7 +26,7 @@ My EFI With OpenCore 5.5.0 Catalina 10.15.3
 
 ### Operating System
 
-macOS Catalina 10.15.3
+macOS Catalina 10.15.4
 
 ### BIOS Version
 
@@ -48,7 +48,7 @@ macOS Catalina 10.15.3
 - No Bluetooth & Wi-Fi device
 
 ## Updates
-
+- 20200327: update opencore to 5.6.0 from 5.5.0 and macos to 10.15.4 from 10.15.3
 - 20200204: unlock cfg lock
 
 ## Images
