@@ -832,11 +832,11 @@
 		<key>Quirks</key>
 		<dict>
 			<key>AppleCpuPmCfgLock</key>
-			<true/>
+			<false/>
 			<key>AppleXcpmCfgLock</key>
-			<true/>
+			<false/>
 			<key>AppleXcpmExtraMsrs</key>
-			<true/>
+			<false/>
 			<key>AppleXcpmForceBoost</key>
 			<false/>
 			<key>CustomSMBIOSGuid</key>
@@ -925,7 +925,7 @@
 			<key>AuthRestart</key>
 			<false/>
 			<key>ExposeSensitiveData</key>
-			<integer>11</integer>
+			<integer>3</integer>
 			<key>HaltLevel</key>
 			<integer>0</integer>
 			<key>Vault</key>
@@ -1163,7 +1163,7 @@
 			<key>ReplaceTabWithSpace</key>
 			<false/>
 			<key>SanitiseClearScreen</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>Protocols</key>
 		<dict>
@@ -1205,7 +1205,7 @@
 			<key>RequestBootVarFallback</key>
 			<false/>
 			<key>RequestBootVarRouting</key>
-			<false/>
+			<true/>
 			<key>UnblockFsConnect</key>
 			<false/>
 		</dict>
