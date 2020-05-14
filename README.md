@@ -12,7 +12,7 @@ My EFI With OpenCore 5.7.0 Catalina 10.15.4
 
 ### OpenCore
 
-- OpenCore 5.7.0
+- OpenCore 5.8.0
 
 ### Hardware
 
@@ -23,16 +23,17 @@ My EFI With OpenCore 5.7.0 Catalina 10.15.4
 | AMD Graphics Card  |    Sapphire RX5500 XT 8G    |
 |        RAM         |      16GB 3200MHz DDR4      |
 | Solid State Drives | Western Digital SN750 500GB |
+| Wifi & Bluetooth |  BCM94360CD |
 
 ### Operating System
 
-macOS Catalina 10.15.4
+macOS Catalina 10.15.4 Update 1
 
 ### BIOS Version
 
 - F8
 
-## Will Workd
+## Will Worked
 
 - Sleep
 - 4K Hardware Speed Up
@@ -45,10 +46,10 @@ macOS Catalina 10.15.4
 
 ## Current Issues
 
-- No Bluetooth & Wi-Fi device
 - Big Apple logo
 
 ## Updates
+- 20200515: update opencore to 5.8.0 from 5.7.0 and add wifi and bluetooth
 - 20200408: update opencore to 5.7.0 from 5.6.0
 - 20200327: update opencore to 5.6.0 from 5.5.0 and macos to 10.15.4 from 10.15.3
 - 20200204: unlock cfg lock
