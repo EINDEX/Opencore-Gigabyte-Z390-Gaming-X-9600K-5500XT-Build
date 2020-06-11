@@ -1,6 +1,6 @@
 # Opencore Gigabyte z390 Gaming X i5 9600kf Rx 5500 xt Build
 
-My EFI With OpenCore 5.7.0 Catalina 10.15.4
+My EFI With OpenCore 5.9.0 Catalina 10.15.5
 
 **In maintenance**
 
@@ -12,7 +12,7 @@ My EFI With OpenCore 5.7.0 Catalina 10.15.4
 
 ### OpenCore
 
-- OpenCore 5.8.0
+- OpenCore 5.9.0
 
 ### Hardware
 
@@ -23,11 +23,11 @@ My EFI With OpenCore 5.7.0 Catalina 10.15.4
 | AMD Graphics Card  |    Sapphire RX5500 XT 8G    |
 |        RAM         |      16GB 3200MHz DDR4      |
 | Solid State Drives | Western Digital SN750 500GB |
-| Wifi & Bluetooth |  BCM94360CD |
+| Wifi & Bluetooth   |  BCM94360CD                 |
 
 ### Operating System
 
-macOS Catalina 10.15.4 Update 1
+macOS Catalina 10.15.5
 
 ### BIOS Version
 
@@ -46,9 +46,11 @@ macOS Catalina 10.15.4 Update 1
 
 ## Current Issues
 
-- Big Apple logo
+- ~~Big Apple logo~~
+- SideCar and FCPX can not work beacuse my cpu with F
 
 ## Updates
+- 20200611: update opencore to 5.9.0 from 5.8.0 and macos to 10.15.5 from 10.15.4
 - 20200515: update opencore to 5.8.0 from 5.7.0 and add wifi and bluetooth
 - 20200408: update opencore to 5.7.0 from 5.6.0
 - 20200327: update opencore to 5.6.0 from 5.5.0 and macos to 10.15.4 from 10.15.3
