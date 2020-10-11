@@ -1,6 +1,6 @@
 # Opencore Gigabyte z390 Gaming X i5 9600kf Rx 5500 xt Build
 
-My EFI With OpenCore 5.9.0 Catalina 10.15.5
+My EFI With OpenCore 6.2.0 Catalina 10.15.7
 
 **In maintenance**
 
@@ -12,7 +12,7 @@ My EFI With OpenCore 5.9.0 Catalina 10.15.5
 
 ### OpenCore
 
-- OpenCore 5.9.0
+- OpenCore 6.2.0
 
 ### Hardware
 
@@ -21,13 +21,13 @@ My EFI With OpenCore 5.9.0 Catalina 10.15.5
 |    Montherboard    |   Gigabyte Z390 Gaming X    |
 |        CPU         |          I5-9600KF          |
 | AMD Graphics Card  |    Sapphire RX5500 XT 8G    |
-|        RAM         |      16GB 3200MHz DDR4      |
+|        RAM         |    2 * 16GB 3200MHz DDR4    |
 | Solid State Drives | Western Digital SN750 500GB |
 | Wifi & Bluetooth   |  BCM94360CD                 |
 
 ### Operating System
 
-macOS Catalina 10.15.5
+macOS Catalina 10.15.7
 
 ### BIOS Version
 
@@ -50,6 +50,7 @@ macOS Catalina 10.15.5
 - SideCar and FCPX can not work beacuse my cpu with F
 
 ## Updates
+- 20201011: update opencore to 6.2.0 from 5.9.0 and macos to 10.15.7 from 10.15.5
 - 20200611: update opencore to 5.9.0 from 5.8.0 and macos to 10.15.5 from 10.15.4
 - 20200515: update opencore to 5.8.0 from 5.7.0 and add wifi and bluetooth
 - 20200408: update opencore to 5.7.0 from 5.6.0
@@ -74,6 +75,7 @@ setup_var_c 0x5C1 0x00
 
 ## Thanks
 
+- Dortania https://dortania.github.io/getting-started/
 - Tonyformac
 - 黑果小兵 https://blog.daliansky.net/
 - XJN'Blog https://blog.xjn819.com/
