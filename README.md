@@ -1,6 +1,6 @@
 # Opencore Gigabyte z390 Gaming X i5 9600kf Rx 5500 xt Build
 
-My EFI With OpenCore 6.3.0 Big Sur 11.0.1
+My EFI With OpenCore 6.7.0 Big Sur 11.2.3 (20D91)
 
 **In maintenance**
 
@@ -12,7 +12,7 @@ My EFI With OpenCore 6.3.0 Big Sur 11.0.1
 
 ### OpenCore
 
-- OpenCore 6.3.0
+- OpenCore 6.7.0
 
 ### Hardware
 
@@ -27,7 +27,7 @@ My EFI With OpenCore 6.3.0 Big Sur 11.0.1
 
 ### Operating System
 
-macOS Big Sur 11.0.1
+macOS Big Sur 11.2.3 (20D91)
 
 ### BIOS Version
 
@@ -50,6 +50,7 @@ macOS Big Sur 11.0.1
 - SideCar and FCPX can not work beacuse my cpu with F
 
 ## Updates
+- 20210309: update opencore to 6.7.0 from 6.3.0 and macos to 11.2.3 (20D91) from 11.0.1
 - 20201113: update opencore to 6.3.0 from 6.2.0 and macos to 11.0.1 from 10.15.7
 - 20201011: update opencore to 6.2.0 from 5.9.0 and macos to 10.15.7 from 10.15.5
 - 20200611: update opencore to 5.9.0 from 5.8.0 and macos to 10.15.5 from 10.15.4
