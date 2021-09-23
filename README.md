@@ -1,7 +1,5 @@
 # Opencore Gigabyte z390 Gaming X i5 9600kf Rx 5500 xt Build
 
-My EFI With OpenCore 6.8.0 Big Sur 11.3 (20E232)
-
 **Welcome to raise issue for my efi config**
 
 ## Notice
@@ -16,24 +14,13 @@ Want to setup this efi on your Hackintosh, Please checking those:
 
 **In maintenance**
 ### Update frequency
-Will be updated at least every three months
-
-### Update logs
-- 20210430: upgrade opencore to 6.8.0 and macos to 11.3 (20E232)
-- 20210309: upgrade opencore to 6.7.0 from 6.3.0 and macos to 11.2.3 (20D91) from 11.0.1
-- 20201113: upgrade opencore to 6.3.0 from 6.2.0 and macos to 11.0.1 from 10.15.7
-- 20201011: upgrade opencore to 6.2.0 from 5.9.0 and macos to 10.15.7 from 10.15.5
-- 20200611: upgrade opencore to 5.9.0 from 5.8.0 and macos to 10.15.5 from 10.15.4
-- 20200515: upgrade opencore to 5.8.0 from 5.7.0 and add wifi and bluetooth
-- 20200408: upgrade opencore to 5.7.0 from 5.6.0
-- 20200327: upgrade opencore to 5.6.0 from 5.5.0 and macos to 10.15.4 from 10.15.3
-- 20200204: unlock cfg lock
+Will be updated at least every half year.
 
 ## Configuration
 
 ### OpenCore
 
-- [OpenCore](https://github.com/acidanthera/OpenCorePkg) 6.8.0
+- [OpenCore](https://github.com/acidanthera/OpenCorePkg) 7.3
 
 ### Hardware
 
@@ -53,6 +40,18 @@ macOS Big Sur 11.3 (20E232)
 ### BIOS Version
 
 - F8
+
+### Update logs
+- 20210922: upgrade opencore to 7.3.0 and macos to 12.0 Beta (21A5506j)
+- 20210430: upgrade opencore to 6.8.0 and macos to 11.3 (20E232)
+- 20210309: upgrade opencore to 6.7.0 from 6.3.0 and macos to 11.2.3 (20D91) from 11.0.1
+- 20201113: upgrade opencore to 6.3.0 from 6.2.0 and macos to 11.0.1 from 10.15.7
+- 20201011: upgrade opencore to 6.2.0 from 5.9.0 and macos to 10.15.7 from 10.15.5
+- 20200611: upgrade opencore to 5.9.0 from 5.8.0 and macos to 10.15.5 from 10.15.4
+- 20200515: upgrade opencore to 5.8.0 from 5.7.0 and add wifi and bluetooth
+- 20200408: upgrade opencore to 5.7.0 from 5.6.0
+- 20200327: upgrade opencore to 5.6.0 from 5.5.0 and macos to 10.15.4 from 10.15.3
+- 20200204: unlock cfg lock
 
 ## Will Worked
 
