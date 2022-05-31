@@ -1,4 +1,4 @@
-# Opencore Gigabyte z390 Gaming X i5 9600K 5500-XT Build
+# Archive - Opencore Gigabyte z390 Gaming X i5 9600K 5500-XT Build
 
 **Stop update anymore, Got a m1 pro chip mac to replace this one.**
 
