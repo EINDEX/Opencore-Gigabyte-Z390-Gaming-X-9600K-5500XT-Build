@@ -1,6 +1,6 @@
 # Opencore Gigabyte z390 Gaming X i5 9600K 5500-XT Build
 
-**Welcome to raise issue/question for my efi config**
+**Stop update anymore, Got a m1 pro chip mac to replace this one.**
 
 ## Notice
 
@@ -44,7 +44,7 @@ macOS Monterey 12.0.1 (21A559)
 
 ### Update logs
 - 20211108: upgrade opencore to 0.7.5 and macos to 12.0.1 (21A559) and change CPU to 9600K
-- 20210922: upgrade opencore to 0.7.3 and macos to 12.0 Beta (21A5506j)
+- 20210922: upgrade opencore to 0.7.3 and macos to 12.0 Beta (21A5506j)
 - 20210430: upgrade opencore to 0.6.8 and macos to 11.3 (20E232)
 - 20210309: upgrade opencore to 0.6.7 and macos to 11.2.3 (20D91) from 11.0.1
 - 20201113: upgrade opencore to 0.6.3 and macos to 11.0.1 from 10.15.7
